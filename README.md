@@ -10,7 +10,10 @@ The dataset includes data from 6 experimental conditions, each in its own reposi
 3. stim_num - stimulus number within a specific trial; the test stimulus is coded as "0", the preceding prior as "1", the one before that as "2", etc.
 4. test_stim - test stim are coded as "1" and priors are coded as "0".
 5. ans - participant's response; "right" is coded as "1" and "left" is % coded as "-1". 
-   In conditions 5-6 participants judged prior’s color instead of location. Thus, in these conditions “1” and “-1” refer to “green/purple”, counterbalanced between participants.
+   
+   In conditions 5-6, participants judged prior’s color instead of location. 
+   
+   Thus, in these conditions “1” and “-1” refer to “green/purple”, counterbalanced between participants.
 6. rt - response time in seconds. 
 
 Conditions 3,5 and 6 also include an additional field:
