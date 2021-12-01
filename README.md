@@ -9,7 +9,7 @@ The dataset includes data from 6 experimental conditions, each in its own reposi
 2. prior_type - priors' type, such that right priors are coded as "1" and left priors as "-1" (condition 1A also includes an unbiased priors’ type, coded as “0”).
 3. stim_num - stimulus number within a specific trial; the test stimulus is coded as "0", the preceding prior as "1", the one before that as "2", etc.
 4. test_stim - test stim are coded as "1" and priors are coded as "0".
-5. ans - participant's response; "right" is coded as "1" and "left" is % coded as "-1".
+5. ans - participant's response; "right" is coded as "1" and "left" is % coded as "-1" (in conditions 5-6 participants judged prior’s color instead of location. Thus, in these conditions “1” and “-1” refer to “green/purple”, counterbalanced between participants).
 6. rt - response time in seconds. 
 
 Conditions 3,5 and 6 also include an additional field:
