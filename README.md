@@ -1,6 +1,7 @@
 # Relevant-Priors - Dataset
 
 Full details of this project can be found in: 
+
 ** Feigin, H., Baror, S., Bar, M., & Zaidel, A. (2021). Perceptual decisions are biased toward relevant prior choices. Scientific reports, 11(1), 1-16.**
 
 The dataset includes data from 6 experimental conditions, each in its own repository (the first condition has two variants – A and B, each in its own repository). Each table contains data of a single participant, and includes the following fields: 
