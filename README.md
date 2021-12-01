@@ -13,4 +13,5 @@ The dataset includes data from 6 experimental conditions, each in its own reposi
 6. rt - response time in seconds. 
 
 Conditions 3,5 and 6 also include an additional field:
+
 7. prior_color - priors were either green or purple, coded as "1" and "2", counterbalanced between participants. Test circles were always white, and their color is coded as "0".
